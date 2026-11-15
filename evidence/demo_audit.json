@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "batch_imported",
+    "request_id": null,
+    "detail": "{\"batch\": 1, \"source\": \"demo\", \"rows\": 26}"
+  },
+  {
+    "id": 2,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000000",
+    "detail": "{\"state\": \"ready\", \"exact\": [1], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 3,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [2], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 4,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000002",
+    "detail": "{\"state\": \"review\", \"exact\": [3, 4], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 5,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000004",
+    "detail": "{\"state\": \"review\", \"exact\": [5], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 6,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000005",
+    "detail": "{\"state\": \"review\", \"exact\": [6], \"suggested\": [{\"id\": 7, \"score\": 0.9302}], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 7,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000010",
+    "detail": "{\"state\": \"ready\", \"exact\": [11], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 8,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000011",
+    "detail": "{\"state\": \"ready\", \"exact\": [12], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 9,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000012",
+    "detail": "{\"state\": \"ready\", \"exact\": [13], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 10,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000013",
+    "detail": "{\"state\": \"ready\", \"exact\": [14], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 11,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000014",
+    "detail": "{\"state\": \"ready\", \"exact\": [15], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 12,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000015",
+    "detail": "{\"state\": \"ready\", \"exact\": [16], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 13,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000016",
+    "detail": "{\"state\": \"ready\", \"exact\": [17], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 14,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000017",
+    "detail": "{\"state\": \"ready\", \"exact\": [18], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 15,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000018",
+    "detail": "{\"state\": \"ready\", \"exact\": [19], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 16,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000019",
+    "detail": "{\"state\": \"ready\", \"exact\": [20], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 17,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000020",
+    "detail": "{\"state\": \"ready\", \"exact\": [21], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 18,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000021",
+    "detail": "{\"state\": \"ready\", \"exact\": [22], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 19,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000022",
+    "detail": "{\"state\": \"ready\", \"exact\": [23], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 20,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000023",
+    "detail": "{\"state\": \"ready\", \"exact\": [24], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 21,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "DEMO00000024",
+    "detail": "{\"state\": \"ready\", \"exact\": [25], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 22,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "ABSENT000001",
+    "detail": "{\"state\": \"complete\", \"exact\": [], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 23,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "PHONE0000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [8], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 24,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "NDZ000000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [9], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 25,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "VIN000000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [10], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 26,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "MAID00000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [31], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 27,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "matched",
+    "request_id": "CTVID0000001",
+    "detail": "{\"state\": \"ready\", \"exact\": [32], \"suggested\": [], \"model\": \"synthetic-logistic-v1\"}"
+  },
+  {
+    "id": 28,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000000",
+    "detail": "{\"record_ids\": [1], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 29,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000001",
+    "detail": "{\"record_ids\": [2], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 30,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000010",
+    "detail": "{\"record_ids\": [11], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 31,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000011",
+    "detail": "{\"record_ids\": [12], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 32,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000012",
+    "detail": "{\"record_ids\": [13], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 33,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000013",
+    "detail": "{\"record_ids\": [14], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 34,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000014",
+    "detail": "{\"record_ids\": [15], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 35,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000015",
+    "detail": "{\"record_ids\": [16], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 36,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000016",
+    "detail": "{\"record_ids\": [17], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 37,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000017",
+    "detail": "{\"record_ids\": [18], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 38,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000018",
+    "detail": "{\"record_ids\": [19], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 39,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000019",
+    "detail": "{\"record_ids\": [20], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 40,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000020",
+    "detail": "{\"record_ids\": [21], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 41,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000021",
+    "detail": "{\"record_ids\": [22], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 42,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000022",
+    "detail": "{\"record_ids\": [23], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 43,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000023",
+    "detail": "{\"record_ids\": [24], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 44,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000024",
+    "detail": "{\"record_ids\": [25], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 45,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "PHONE0000001",
+    "detail": "{\"record_ids\": [8], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 46,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "NDZ000000001",
+    "detail": "{\"record_ids\": [9], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 47,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "VIN000000001",
+    "detail": "{\"record_ids\": [10], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 48,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "MAID00000001",
+    "detail": "{\"record_ids\": [31], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 49,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "CTVID0000001",
+    "detail": "{\"record_ids\": [32], \"reviewer_note\": \"\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 50,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "review_approved",
+    "request_id": "DEMO00000002",
+    "detail": "{\"reviewer\": \"Scripted demo reviewer\", \"reason\": \"synthetic_fixture_verified\", \"note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"evidence_ref\": \"seed.py / synthetic fixture labels\", \"evidence_version\": \"379dd82a62e00b16020ac43ec99dab54413b851809e77efcb06a23c117c86306\", \"action\": \"optout\", \"exact_ids\": [3, 4], \"accepted_suggestions\": [], \"rejected_suggestions\": [], \"scope\": \"Local synthetic database only\", \"reviewer_identity\": \"Self-reported; not enterprise-authenticated\"}"
+  },
+  {
+    "id": 51,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "optout",
+    "request_id": "DEMO00000002",
+    "detail": "{\"record_ids\": [3, 4], \"reviewer_note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 52,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "review_approved",
+    "request_id": "DEMO00000004",
+    "detail": "{\"reviewer\": \"Scripted demo reviewer\", \"reason\": \"synthetic_fixture_verified\", \"note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"evidence_ref\": \"seed.py / synthetic fixture labels\", \"evidence_version\": \"e4e37a03d36a4207295a74aa68c59195c21c733a86d33985547e40d321f2e6f6\", \"exemption_basis\": \"Classroom fixture EXEMPT-001, not a legal exemption\", \"exemption_scope\": \"Retain all fields in fictional record 5 for this demo\", \"action\": \"exempt\", \"exact_ids\": [5], \"accepted_suggestions\": [], \"rejected_suggestions\": [], \"scope\": \"Local synthetic database only\", \"reviewer_identity\": \"Self-reported; not enterprise-authenticated\"}"
+  },
+  {
+    "id": 53,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "exempt",
+    "request_id": "DEMO00000004",
+    "detail": "{\"record_ids\": [5], \"reviewer_note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"include_suggestions\": false, \"scope\": \"synthetic local database\"}"
+  },
+  {
+    "id": 54,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "review_approved",
+    "request_id": "DEMO00000005",
+    "detail": "{\"reviewer\": \"Scripted demo reviewer\", \"reason\": \"synthetic_fixture_verified\", \"note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"evidence_ref\": \"seed.py / synthetic fixture labels\", \"evidence_version\": \"babd2355a35ffd2a0b9e919f1a7a1c7e651b1784d9b7630d9b2d82686a4fdda9\", \"action\": \"delete\", \"exact_ids\": [6], \"accepted_suggestions\": [7], \"rejected_suggestions\": [], \"scope\": \"Local synthetic database only\", \"reviewer_identity\": \"Self-reported; not enterprise-authenticated\"}"
+  },
+  {
+    "id": 55,
+    "time": "2026-11-14T20:08:20+00:00",
+    "event": "delete",
+    "request_id": "DEMO00000005",
+    "detail": "{\"record_ids\": [6, 7], \"reviewer_note\": \"Reviewed the synthetic fixture evidence and confirmed action scope.\", \"include_suggestions\": true, \"scope\": \"synthetic local database\"}"
+  }
+]

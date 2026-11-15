@@ -1,0 +1,20 @@
+{
+  "automated_tests": 60,
+  "test_result": "passed",
+  "javascript_syntax": "passed (node --check)",
+  "local_http_routes": "passed",
+  "browser_visual_test": "not completed: browser runtime restricted",
+  "authenticated_DROP_API": "not completed: credentials unavailable; network allowlist blocked sandbox host",
+  "sample_database": "1000 records; pristine; SQLite integrity check passed",
+  "demo_work_items": 26,
+  "demo_status_counts": {
+    "deleted": 23,
+    "opted_out": 1,
+    "exempted": 1,
+    "not_found": 1
+  },
+  "version": "2.1",
+  "review_ui_render_checks": "JavaScript syntax passed; browser testing remains unavailable",
+  "legacy_database_migration": "passed; existing records and case state preserved",
+  "review_controls": "approve, reject AI link, dispute, defer, reopen; stale snapshots rejected; atomic audit/action"
+}

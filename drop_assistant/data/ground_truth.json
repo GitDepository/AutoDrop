@@ -1,0 +1,15 @@
+{
+  "note": "Synthetic expected decisions before AI review. Internal row 7 is an intentionally ambiguous duplicate candidate for row 6; requires reviewer evidence.",
+  "request_count": 26,
+  "expected_initial_states": {
+    "ready": 22,
+    "review": 3,
+    "complete": 1
+  },
+  "special_cases": {
+    "DEMO00000002": "shared household identifier: opt out",
+    "DEMO00000004": "synthetic exemption: reviewer approval",
+    "DEMO00000005": "possible internal duplicate: human review",
+    "ABSENT000001": "not found"
+  }
+}
